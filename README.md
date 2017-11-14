@@ -1,2 +1,2 @@
 # Analiza-bazy-danych
-Analiza bazy danych z pliku z wykorzystaniem PHP, Ajax, JS, CanvasJS
+Analiza bazy danych z pliku, generowanie na ich podstawie wykresów wykorzystując PHP, Ajax, JS, CanvasJS
